@@ -1,3 +1,3 @@
 module github.com/Nizar-MC-fork/go-libb
 
-go 1.20 
+go 1.20
